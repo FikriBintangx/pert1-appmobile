@@ -1,3 +1,6 @@
+
+NAMA : FIKRI BINTANG PURNOMO 
+NIM  : 1122140142
 # pertemuan 1
 
 void main() {
